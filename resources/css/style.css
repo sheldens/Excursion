@@ -21,3 +21,7 @@ h3 {
     color: gray;
     font-size: 21px;
 }
+.footnote {
+  color: gray;
+  text-align: right;
+}
